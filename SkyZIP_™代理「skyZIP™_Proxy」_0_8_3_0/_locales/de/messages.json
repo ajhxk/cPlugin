@@ -1,0 +1,98 @@
+{
+  "extension_name": {
+    "message": "skyZIP™ Proxy",
+    "description": "The name of this Extension."
+  },
+  "extension_short_name": {
+    "message": "skyZIP™",
+    "description": "The short name of this Extension."
+  },
+  "extension_description": {
+    "message": "skyZIP™ beschleunigungs und kompressions Proxy",
+    "description": "The description of this Extension."
+  },
+  "state_on": {
+    "message": "skyZIP™ Proxy: Aktiviert",
+    "description": "The current Proxy state."
+  },
+  "state_off": {
+    "message": "skyZIP™ Proxy: Deaktiviert",
+    "description": "The current Proxy state."
+  },
+  "head_authentication": {
+    "message": "Authentifizierung:",
+    "description": ""
+  },
+  "head_advanced_settings": {
+    "message": "Erweiterte Einstellungen:",
+    "description": ""
+  },
+  "head_options": {
+    "message": "skyZIP&trade; Proxy Optionen",
+    "description": ""
+  },
+  "label_username": {
+    "message": "Nutzername:",
+    "description": ""
+  },
+  "label_password": {
+    "message": "Passwort:",
+    "description": ""
+  },
+  "label_bypass_rules": {
+    "message": "Ignorier Regeln",
+    "description": ""
+  },
+  "label_format": {
+    "message": "Format",
+    "description": ""
+  },
+  "label_http_server": {
+    "message": "HTTP Server:",
+    "description": ""
+  },
+  "label_https_server": {
+    "message": "HTTPS Server:",
+    "description": ""
+  },
+  "label_save": {
+    "message": "Speichern",
+    "description": ""
+  },
+  "text_adblockinfo": {
+    "message": "Um die ladegeschwindigkeit ihres Browsers noch weiter zu verbessern, empfehlen wir ihnen <a target=\"blank\" href=\"https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb\">Adblock Plus zu installieren</a>",
+    "description": ""
+  },
+  "head_tipps": {
+    "message": "Tipps:",
+    "description": ""
+  },
+  "head_general": {
+    "message": "Allgemein:",
+    "description": ""
+  },
+  "label_mode": {
+    "message": "Modus:",
+    "description": ""
+  },
+  "mode_none": {
+    "message": "Keine",
+    "description": ""
+  },
+  "mode_moderate": {
+    "message": "Moderat",
+    "description": ""
+  },
+  "mode_medium": {
+    "message": "Mittel",
+    "description": ""
+  },
+  "mode_highrrt": {
+    "message": "Hohe Latenz",
+    "description": ""
+  },
+  "mode_extreme": {
+    "message": "Extrem",
+    "description": ""
+  }
+}

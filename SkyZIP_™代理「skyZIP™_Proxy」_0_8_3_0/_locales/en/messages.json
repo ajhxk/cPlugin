@@ -1,0 +1,98 @@
+{
+  "extension_name": {
+    "message": "skyZIP™ Proxy",
+    "description": "The name of this Extension."
+  },
+  "extension_short_name": {
+    "message": "skyZIP™",
+    "description": "The short name of this Extension."
+  },
+  "extension_description": {
+    "message": "skyZIP™ acceleration and compression Proxy",
+    "description": "The description of this Extension."
+  },
+  "state_on": {
+    "message": "skyZIP™ Proxy: Enabled",
+    "description": "The current Proxy state."
+  },
+  "state_off": {
+    "message": "skyZIP™ Proxy: Disabled",
+    "description": "The current Proxy state."
+  },
+  "head_authentication": {
+    "message": "Authentication:",
+    "description": ""
+  },
+  "head_advanced_settings": {
+    "message": "Advanced Settings:",
+    "description": ""
+  },
+  "head_options": {
+    "message": "skyZIP&trade; Proxy Options",
+    "description": ""
+  },
+  "label_username": {
+    "message": "Username:",
+    "description": ""
+  },
+  "label_password": {
+    "message": "Password:",
+    "description": ""
+  },
+  "label_bypass_rules": {
+    "message": "Bypass rules",
+    "description": ""
+  },
+  "label_format": {
+    "message": "Format",
+    "description": ""
+  },
+  "label_http_server": {
+    "message": "HTTP Server:",
+    "description": ""
+  },
+  "label_https_server": {
+    "message": "HTTPS Server:",
+    "description": ""
+  },
+  "label_save": {
+    "message": "Save",
+    "description": ""
+  },
+  "text_adblockinfo": {
+    "message": "To increase your Website loading speed even further we recommend you to <a target=\"blank\" href=\"https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb\">Install Adblock Plus</a>",
+    "description": ""
+  },
+  "head_tipps": {
+    "message": "Tipps:",
+    "description": ""
+  },
+  "head_general": {
+    "message": "General:",
+    "description": ""
+  },
+  "label_mode": {
+    "message": "Mode:",
+    "description": ""
+  },
+  "mode_none": {
+    "message": "None",
+    "description": ""
+  },
+  "mode_moderate": {
+    "message": "Moderate",
+    "description": ""
+  },
+  "mode_medium": {
+    "message": "Medium",
+    "description": ""
+  },
+  "mode_highrrt": {
+    "message": "High Delay",
+    "description": ""
+  },
+  "mode_extreme": {
+    "message": "Extreme",
+    "description": ""
+  }
+}
